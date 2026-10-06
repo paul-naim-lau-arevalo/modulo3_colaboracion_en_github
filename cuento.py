@@ -8,7 +8,7 @@ def narrar_cuento(personaje="Arturo", lugar="el bosque misterioso", objeto="una 
     Habia una vez un valiente explorador llamado {personaje}.
     Un dia decidio adentrarse en {lugar} en busca de aventuras.
     
-    Caminando entre las sombras, encontro un viejo cofre oculto
+    Explorando entre los arbustos, encontro un viejo cofre oculto
     bajo las raices de un arbol milenario. Al acercarse, descubrio
     que para abrirlo necesitaba {objeto}.
     
