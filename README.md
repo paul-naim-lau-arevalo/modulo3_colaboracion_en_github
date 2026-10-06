@@ -1,3 +1,5 @@
+# modulo3_colaboracion_en_github
+### utilidades.py: funciones auxiliares (es_par, promedio, saludar)
 # Proyecto Colaborativo en Python
 
 Trabajo en equipo para la materia, utilizando Git y GitHub para colaborar en un proyecto de Python dividido en modulos.
